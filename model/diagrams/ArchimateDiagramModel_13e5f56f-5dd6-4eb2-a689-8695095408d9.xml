@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="М2 Матрица требований ограничений"
+    name="М2 Матрица требований ограничений тележки"
     id="13e5f56f-5dd6-4eb2-a689-8695095408d9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
