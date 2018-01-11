@@ -1,30 +1,4 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ф8 Управление тягой"
-    id="01238293-686f-4cb9-8d1d-b35cdbd7e0f4">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e02a9a28-7c93-4194-8242-3466875105e9">
-    <bounds
-        x="402"
-        y="253"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_9d3857d7-b94e-4461-b15a-b02c347df4a4.xml#9d3857d7-b94e-4461-b15a-b02c347df4a4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="6f0d8939-2b98-4661-ab08-0fe7471bbe4b">
-    <bounds
-        x="427"
-        y="370"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_cd7a1e08-75a7-4de4-bcda-b1ee8ef7c395.xml#cd7a1e08-75a7-4de4-bcda-b1ee8ef7c395"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    id="01238293-686f-4cb9-8d1d-b35cdbd7e0f4"/>
