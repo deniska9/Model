@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="М4 Матрица требований ограничений силового модуля"
+    id="5a672afe-5bd1-4e28-97e1-e7e84c0d039c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ac4bbf26-fc12-49ab-a0ea-d9cab6d98fc2">
+    <bounds
+        x="276"
+        y="223"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_c823bb82-f407-4391-b6b2-370711bddcf1.xml#c823bb82-f407-4391-b6b2-370711bddcf1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
