@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="К8 Модуль ВВ оборудования и охлаждения ТЭД 2 тележки "
+    id="5c3428c7-87b2-4d2e-820a-922b86435ee3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="31ea0f6b-5350-43a7-8f5b-2f26b61ee40e">
+    <bounds
+        x="84"
+        y="48"
+        width="1021"
+        height="529"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_949c97a6-4092-475b-877e-d9f894a0e3d1.xml#949c97a6-4092-475b-877e-d9f894a0e3d1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

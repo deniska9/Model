@@ -5,19 +5,6 @@
     id="34494599-c732-4b7b-ae4b-6b1c303cf6d9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="9b80f639-87d3-420e-90c5-25eb64a0ba7d"
-      targetConnections="4f736ecc-9836-4b33-abfe-0bc69287e594">
-    <bounds
-        x="393"
-        y="232"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Material"
-        href="Material_ddcc4777-eb82-4bc2-bf34-476b0544d734.xml#ddcc4777-eb82-4bc2-bf34-476b0544d734"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="c98d9051-2d24-42d9-97e5-29b9c90e3d2c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -30,12 +17,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4f736ecc-9836-4b33-abfe-0bc69287e594"
+        id="42e0c6f0-3b4c-4d4b-a012-6f3f89267d99"
         source="c98d9051-2d24-42d9-97e5-29b9c90e3d2c"
-        target="9b80f639-87d3-420e-90c5-25eb64a0ba7d">
+        target="56e1b279-2825-4cfa-b014-13dfedf8c0e8">
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_16b7c05e-7899-4008-a0d1-767d039516cd.xml#16b7c05e-7899-4008-a0d1-767d039516cd"/>
+          href="AccessRelationship_50020932-91dc-49e4-a7fb-76ba2cf0eb62.xml#50020932-91dc-49e4-a7fb-76ba2cf0eb62"/>
     </sourceConnections>
     <bounds
         x="698"
@@ -101,5 +88,18 @@
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_ad7f7a40-3ae4-4927-9cfd-8ed5eac99794.xml#ad7f7a40-3ae4-4927-9cfd-8ed5eac99794"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="56e1b279-2825-4cfa-b014-13dfedf8c0e8"
+      targetConnections="42e0c6f0-3b4c-4d4b-a012-6f3f89267d99">
+    <bounds
+        x="410"
+        y="240"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Material"
+        href="Material_3f7d103a-7daf-447a-8a09-867344bf0ef8.xml#3f7d103a-7daf-447a-8a09-867344bf0ef8"/>
   </children>
 </archimate:ArchimateDiagramModel>
