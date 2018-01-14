@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="К7 Кабина"
+    id="4a6cdb9a-122c-4c93-8d3d-402b501564b0">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="941613bb-04e3-4b16-9d19-7ac3305e6a24">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="5962e6ea-be91-4fce-b92c-6029a27a8079"
+        source="941613bb-04e3-4b16-9d19-7ac3305e6a24"
+        target="5a5decfe-3d27-4076-bf93-f6894c12b58e">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_535fc625-bd5e-4b7b-95e4-9ece1efabcd0.xml#535fc625-bd5e-4b7b-95e4-9ece1efabcd0"/>
+    </sourceConnections>
+    <bounds
+        x="72"
+        y="60"
+        width="1009"
+        height="565"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="5a5decfe-3d27-4076-bf93-f6894c12b58e"
+        targetConnections="5962e6ea-be91-4fce-b92c-6029a27a8079">
+      <bounds
+          x="72"
+          y="468"
+          width="121"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_145bbe18-219f-439c-aa0a-11e3362e4b61.xml#145bbe18-219f-439c-aa0a-11e3362e4b61"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_e337a690-71d3-40f5-89fc-89aac9baa337.xml#e337a690-71d3-40f5-89fc-89aac9baa337"/>
+  </children>
+</archimate:ArchimateDiagramModel>

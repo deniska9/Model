@@ -243,8 +243,8 @@
       <bounds
           x="48"
           y="63"
-          width="120"
-          height="55"/>
+          width="145"
+          height="70"/>
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_651cf8b3-80a3-4692-a963-3620a299214e.xml#651cf8b3-80a3-4692-a963-3620a299214e"/>
@@ -254,10 +254,10 @@
         id="dea79313-4d9a-4e93-8466-9c7433e4b33b"
         targetConnections="5d213379-a947-45ac-8efd-abdba6c2c6b0">
       <bounds
-          x="275"
+          x="264"
           y="60"
-          width="121"
-          height="61"/>
+          width="132"
+          height="73"/>
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_61420f14-53fa-4149-92b2-081489a78e44.xml#61420f14-53fa-4149-92b2-081489a78e44"/>
