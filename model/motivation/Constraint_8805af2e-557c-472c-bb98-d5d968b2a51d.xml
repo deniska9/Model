@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ОГР 94"
+    id="8805af2e-557c-472c-bb98-d5d968b2a51d"
+    documentation="ГОСТ Р 56286-2014 (п.4.9)Показатели надежности и их значения:  - средненее значение параметра потока отказов третьего вида, 1/103 ч, не более 0,04"/>
