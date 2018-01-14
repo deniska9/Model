@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="М15 Матрица ОГР Требования к тормозной системе"
+    id="47f67b4c-a8cc-493f-922a-1e86ceda40b3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f7c1fb48-affc-40cb-b0a6-617cbcb33e5c">
+    <bounds
+        x="189"
+        y="218"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_98d25a16-1d9d-4e8c-bc27-2a863200f3d3.xml#98d25a16-1d9d-4e8c-bc27-2a863200f3d3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e8f76d2e-2dc7-46bc-85a9-fbbdf5bacff4">
+    <bounds
+        x="192"
+        y="276"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_ad8cc384-f966-4489-9293-d609750a0132.xml#ad8cc384-f966-4489-9293-d609750a0132"/>
+  </children>
+</archimate:ArchimateDiagramModel>
