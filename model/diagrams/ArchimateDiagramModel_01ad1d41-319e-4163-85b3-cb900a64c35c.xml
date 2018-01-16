@@ -135,4 +135,28 @@
         xsi:type="archimate:Constraint"
         href="Constraint_98d25a16-1d9d-4e8c-bc27-2a863200f3d3.xml#98d25a16-1d9d-4e8c-bc27-2a863200f3d3"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1a8775d7-6ece-4cbc-a317-52e8bbba3e76">
+    <bounds
+        x="72"
+        y="822"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_266a0d48-124c-4934-994f-45b6acedd81f.xml#266a0d48-124c-4934-994f-45b6acedd81f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8400ad07-3789-4ae0-9f13-5d3b54dc945b">
+    <bounds
+        x="84"
+        y="888"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_9b3f6821-5b4b-4e29-89bb-419bd7e3834f.xml#9b3f6821-5b4b-4e29-89bb-419bd7e3834f"/>
+  </children>
 </archimate:ArchimateDiagramModel>
