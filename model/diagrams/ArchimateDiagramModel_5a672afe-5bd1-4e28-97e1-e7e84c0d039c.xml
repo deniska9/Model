@@ -281,4 +281,16 @@
         xsi:type="archimate:Constraint"
         href="Constraint_39e57a90-a340-413e-9d49-fcc922e900bc.xml#39e57a90-a340-413e-9d49-fcc922e900bc"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="166690d3-742d-4cbd-b935-28da35c6b99b">
+    <bounds
+        x="84"
+        y="780"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_fb69bfeb-fa1b-45a9-b79a-20a46b3ebd54.xml#fb69bfeb-fa1b-45a9-b79a-20a46b3ebd54"/>
+  </children>
 </archimate:ArchimateDiagramModel>
