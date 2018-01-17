@@ -209,23 +209,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cda9ca8a-40f1-4218-aa15-fa990882a7f0">
     <bounds
-        x="663"
-        y="420"
+        x="608"
+        y="408"
         width="142"
         height="70"/>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_c6025791-a67b-4dd5-859e-69a82f04e607.xml#c6025791-a67b-4dd5-859e-69a82f04e607"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="db6e90d2-3d71-46df-a34c-f3a05400f5ff"
-      textAlignment="1"
-      content="Тут пока не знаю что делать!!!">
-    <bounds
-        x="520"
-        y="43"
-        width="633"
-        height="54"/>
   </children>
 </archimate:ArchimateDiagramModel>
