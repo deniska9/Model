@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="СТ16"
+    id="b96c4a10-70b7-433a-8ee5-62853f513637"
+    documentation="Скорость заправки сечение посчитать с учетом емкости и времени на заправку"/>
