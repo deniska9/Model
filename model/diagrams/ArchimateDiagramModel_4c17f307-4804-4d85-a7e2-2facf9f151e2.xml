@@ -9,8 +9,8 @@
       textAlignment="1"
       content="Ф - функции&#xD;&#xA;С - Связи&#xD;&#xA;ФС - функциональные связи">
     <bounds
-        x="22"
-        y="22"
+        x="132"
+        y="65"
         width="185"
         height="80"/>
   </children>

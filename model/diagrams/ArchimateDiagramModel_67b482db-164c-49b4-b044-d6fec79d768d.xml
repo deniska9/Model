@@ -4,17 +4,6 @@
     name="Ф1 Тяга и торможение"
     id="67b482db-164c-49b4-b044-d6fec79d768d">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="c6733208-e535-45f3-8ace-d2848015c446"
-      textAlignment="1"
-      content="Ф - функции&#xD;&#xA;С - Связи&#xD;&#xA;ФС - функциональные связи">
-    <bounds
-        x="12"
-        y="12"
-        width="185"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="abdeee9d-629e-433a-a847-b330d3b55623">
     <sourceConnections
@@ -502,8 +491,8 @@
           href="AccessRelationship_841b6bb6-611e-4e10-aac3-8bf2bfe55fd6.xml#841b6bb6-611e-4e10-aac3-8bf2bfe55fd6"/>
     </sourceConnections>
     <bounds
-        x="335"
-        y="396"
+        x="719"
+        y="401"
         width="146"
         height="86"/>
     <archimateElement
@@ -515,8 +504,8 @@
       id="224885a4-5e27-4e8c-95ef-bbe67922f13d"
       targetConnections="bb0d78d1-5123-49d8-8015-89d67ddd5658">
     <bounds
-        x="336"
-        y="204"
+        x="720"
+        y="209"
         width="144"
         height="128"/>
     <archimateElement
