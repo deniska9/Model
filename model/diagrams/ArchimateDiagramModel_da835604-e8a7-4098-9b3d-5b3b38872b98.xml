@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ф2 Рама функциональная схема Недодел!!!!"
+    name="Ф2 Рама функциональная схема"
     id="da835604-e8a7-4098-9b3d-5b3b38872b98">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -95,7 +95,7 @@
       id="2e53d3bb-a9d4-44c2-abca-3a6b6d3e0b01">
     <bounds
         x="396"
-        y="264"
+        y="274"
         width="153"
         height="90"/>
     <archimateElement
@@ -162,8 +162,8 @@
           href="AccessRelationship_4fd314f4-6692-433c-ac50-e4b82b834722.xml#4fd314f4-6692-433c-ac50-e4b82b834722"/>
     </sourceConnections>
     <bounds
-        x="396"
-        y="96"
+        x="420"
+        y="128"
         width="142"
         height="70"/>
     <archimateElement
@@ -177,10 +177,22 @@
     <bounds
         x="607"
         y="25"
-        width="120"
-        height="55"/>
+        width="150"
+        height="84"/>
     <archimateElement
         xsi:type="archimate:Material"
         href="Material_fb2b40cd-46e0-4ec6-bdc3-5ca96effd689.xml#fb2b40cd-46e0-4ec6-bdc3-5ca96effd689"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7e59c6e4-e92c-46ef-8624-61f60fe313d6">
+    <bounds
+        x="407"
+        y="46"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyFunction"
+        href="TechnologyFunction_819be255-c100-40e0-92d1-fefbd2b409ad.xml#819be255-c100-40e0-92d1-fefbd2b409ad"/>
   </children>
 </archimate:ArchimateDiagramModel>
